@@ -10,7 +10,7 @@ SkyCast is a responsive weather application built using HTML,CSS and JavaScript 
 1. Clone the repository to your local machine:
    git clone https://github.com/Shruthika03/SkyCast.git
 
-2. Open Weatherbit website and sign up.
+2. Open [Weatherbit](https://www.weatherbit.io/) website and sign up.
    
 3. Copy your weatherbit API key and paste it in the JavaScript file, where prompted.
 
@@ -29,7 +29,6 @@ Provides real-time information about:
 3. Sunrise and sunset times
 
 # Acknowledgments
-Thanks to Weatherbit for providing the weather API, which enables accurate weather forecasts and insights.
-This project is inspired by various web development resources and community tutorials.
+This project is inspired by various web development resources and community tutorials. Also thanks to [Weatherbit](https://www.weatherbit.io/) for providing the API.
 
 
