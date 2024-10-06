@@ -1,7 +1,7 @@
 window.addEventListener("load", () => {
     let lon;
     let lat;
-    let apiKey = "b3c4261748e24becb5c7a40ade4a98dc";
+    let apiKey = "*paste your Weatherbit api key here";
     let cityName = document.querySelector(".city");
     let temperatureValue = document.querySelector(".value");
     let temperatureDescription = document.querySelector(".description");
